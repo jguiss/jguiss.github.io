@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page not found &middot; GitHub Pages</title>
+    <style type="text/css" media="screen">
+
+
+      #container {
+        margin-top: 35px;
+        color: #ccc;
+      }
+
+    </style>
+  </head>
+  <body>
+<div id="container">
+<h1>Edite ton profil</h1>
+<p>Nom</p>
+</div>
+  </body>
+</html>
